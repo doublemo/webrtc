@@ -1,0 +1,109 @@
+# github.com/davecgh/go-spew v1.1.1
+github.com/davecgh/go-spew/spew
+# github.com/google/uuid v1.3.0
+github.com/google/uuid
+# github.com/pion/datachannel v1.5.2
+github.com/pion/datachannel
+# github.com/pion/dtls/v2 v2.1.5
+github.com/pion/dtls/v2
+github.com/pion/dtls/v2/internal/ciphersuite
+github.com/pion/dtls/v2/internal/ciphersuite/types
+github.com/pion/dtls/v2/internal/closer
+github.com/pion/dtls/v2/internal/util
+github.com/pion/dtls/v2/pkg/crypto/ccm
+github.com/pion/dtls/v2/pkg/crypto/ciphersuite
+github.com/pion/dtls/v2/pkg/crypto/clientcertificate
+github.com/pion/dtls/v2/pkg/crypto/elliptic
+github.com/pion/dtls/v2/pkg/crypto/fingerprint
+github.com/pion/dtls/v2/pkg/crypto/hash
+github.com/pion/dtls/v2/pkg/crypto/prf
+github.com/pion/dtls/v2/pkg/crypto/signature
+github.com/pion/dtls/v2/pkg/crypto/signaturehash
+github.com/pion/dtls/v2/pkg/protocol
+github.com/pion/dtls/v2/pkg/protocol/alert
+github.com/pion/dtls/v2/pkg/protocol/extension
+github.com/pion/dtls/v2/pkg/protocol/handshake
+github.com/pion/dtls/v2/pkg/protocol/recordlayer
+# github.com/pion/ice/v2 v2.2.11
+github.com/pion/ice/v2
+# github.com/pion/interceptor v0.1.11
+github.com/pion/interceptor
+github.com/pion/interceptor/internal/cc
+github.com/pion/interceptor/pkg/cc
+github.com/pion/interceptor/pkg/gcc
+github.com/pion/interceptor/pkg/mock
+github.com/pion/interceptor/pkg/nack
+github.com/pion/interceptor/pkg/report
+github.com/pion/interceptor/pkg/twcc
+# github.com/pion/logging v0.2.2
+github.com/pion/logging
+# github.com/pion/mdns v0.0.5
+github.com/pion/mdns
+# github.com/pion/randutil v0.1.0
+github.com/pion/randutil
+# github.com/pion/rtcp v1.2.10
+github.com/pion/rtcp
+# github.com/pion/rtp v1.7.13
+github.com/pion/rtp
+github.com/pion/rtp/codecs
+github.com/pion/rtp/pkg/frame
+github.com/pion/rtp/pkg/obu
+# github.com/pion/sctp v1.8.3
+github.com/pion/sctp
+# github.com/pion/sdp/v3 v3.0.6
+github.com/pion/sdp/v3
+# github.com/pion/srtp/v2 v2.0.10
+github.com/pion/srtp/v2
+# github.com/pion/stun v0.3.5
+github.com/pion/stun
+github.com/pion/stun/internal/hmac
+# github.com/pion/transport v0.13.1
+github.com/pion/transport/connctx
+github.com/pion/transport/deadline
+github.com/pion/transport/packetio
+github.com/pion/transport/replaydetector
+github.com/pion/transport/test
+github.com/pion/transport/utils/xor
+github.com/pion/transport/vnet
+# github.com/pion/turn/v2 v2.0.8
+github.com/pion/turn/v2
+github.com/pion/turn/v2/internal/allocation
+github.com/pion/turn/v2/internal/client
+github.com/pion/turn/v2/internal/ipnet
+github.com/pion/turn/v2/internal/proto
+github.com/pion/turn/v2/internal/server
+# github.com/pion/udp v0.1.1
+github.com/pion/udp
+# github.com/pmezard/go-difflib v1.0.0
+github.com/pmezard/go-difflib/difflib
+# github.com/sclevine/agouti v3.0.0+incompatible
+github.com/sclevine/agouti
+github.com/sclevine/agouti/api
+github.com/sclevine/agouti/api/internal/bus
+github.com/sclevine/agouti/api/internal/service
+github.com/sclevine/agouti/internal/element
+github.com/sclevine/agouti/internal/target
+# github.com/stretchr/testify v1.7.1
+github.com/stretchr/testify/assert
+github.com/stretchr/testify/require
+# golang.org/x/crypto v0.0.0-20221010152910-d6f0a8c073c2
+golang.org/x/crypto/cryptobyte
+golang.org/x/crypto/cryptobyte/asn1
+golang.org/x/crypto/curve25519
+golang.org/x/crypto/curve25519/internal/field
+# golang.org/x/net v0.1.0
+golang.org/x/net/bpf
+golang.org/x/net/dns/dnsmessage
+golang.org/x/net/internal/iana
+golang.org/x/net/internal/socket
+golang.org/x/net/internal/socks
+golang.org/x/net/ipv4
+golang.org/x/net/proxy
+golang.org/x/net/websocket
+# golang.org/x/sys v0.1.0
+golang.org/x/sys/cpu
+golang.org/x/sys/internal/unsafeheader
+golang.org/x/sys/unix
+golang.org/x/sys/windows
+# gopkg.in/yaml.v3 v3.0.0-20200313102051-9f266ea9e77c
+gopkg.in/yaml.v3

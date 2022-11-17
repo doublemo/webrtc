@@ -9,7 +9,6 @@
 ### Folders ###
 ###############
 bin/
-vendor/
 node_modules/
 
 ### Files ###
